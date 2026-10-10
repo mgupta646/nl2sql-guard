@@ -1,0 +1,31 @@
+station_id,name,neighborhood,capacity,lat,lon
+101,Bedford Ave & Midtown 1,Midtown,23,40.75232,-73.99123
+102,Union Sq & Midtown 2,Midtown,19,40.75185,-73.99107
+103,Union Sq & Midtown 3,Midtown,23,40.7466,-73.98506
+104,5 Ave & Midtown 4,Midtown,23,40.74745,-73.98521
+105,Court St & Midtown 5,Midtown,19,40.76116,-73.98191
+106,Court St & Chelsea 1,Chelsea,19,40.74723,-74.00265
+107,W 23 St & Chelsea 2,Chelsea,19,40.74691,-74.00687
+108,Atlantic Ave & Chelsea 3,Chelsea,23,40.74665,-73.99987
+109,Union Sq & Chelsea 4,Chelsea,23,40.73965,-73.99986
+110,W 23 St & Chelsea 5,Chelsea,27,40.73956,-73.99761
+111,Court St & East Village 1,East Village,19,40.7279,-73.98306
+112,Union Sq & East Village 2,East Village,31,40.73044,-73.98355
+113,Columbus Ave & East Village 3,East Village,27,40.7228,-73.97829
+114,W 23 St & East Village 4,East Village,19,40.72719,-73.9826
+115,Bedford Ave & East Village 5,East Village,31,40.72261,-73.97532
+116,5 Ave & Williamsburg 1,Williamsburg,39,40.71269,-73.95689
+117,Park Ave & Williamsburg 2,Williamsburg,31,40.71275,-73.95361
+118,5 Ave & Williamsburg 3,Williamsburg,39,40.71517,-73.95499
+119,Bedford Ave & Williamsburg 4,Williamsburg,27,40.71712,-73.95949
+120,Court St & Williamsburg 5,Williamsburg,31,40.7071,-73.9675
+121,E 14 St & Downtown Brooklyn 1,Downtown Brooklyn,31,40.69615,-73.99696
+122,E 14 St & Downtown Brooklyn 2,Downtown Brooklyn,39,40.70089,-73.98485
+123,E 14 St & Downtown Brooklyn 3,Downtown Brooklyn,31,40.69919,-73.99245
+124,Columbus Ave & Downtown Brooklyn 4,Downtown Brooklyn,27,40.68769,-73.99613
+125,Broadway & Downtown Brooklyn 5,Downtown Brooklyn,23,40.69729,-73.99593
+126,W 23 St & Upper West Side 1,Upper West Side,31,40.78526,-73.96906
+127,5 Ave & Upper West Side 2,Upper West Side,23,40.78619,-73.97421
+128,Park Ave & Upper West Side 3,Upper West Side,31,40.79282,-73.97855
+129,Atlantic Ave & Upper West Side 4,Upper West Side,27,40.78992,-73.97691
+130,W 23 St & Upper West Side 5,Upper West Side,23,40.78033,-73.98058
